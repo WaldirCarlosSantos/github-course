@@ -6,4 +6,4 @@ Repositório teste para ensinar e aprender Git.
 
 Gostou do curso? Então, continue estudando, porque seu futuro depende de você!
 
-Link do site Udemy: https://udemy.com
+Link para o site Udemy: https://udemy.com
