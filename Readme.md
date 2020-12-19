@@ -9,3 +9,6 @@ Gostou do curso? Então, continue estudando, porque seu futuro depende de você!
 Link para o site Udemy: https://udemy.com
 
 Conhecendo o comando git stash
+
+
+Versionando com Tags
