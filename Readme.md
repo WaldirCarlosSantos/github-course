@@ -12,5 +12,3 @@ Conhecendo o comando git stash
 
 
 Versionando com Tags
-
-Conhecendo o comando git revert
